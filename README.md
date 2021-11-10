@@ -1,4 +1,4 @@
-## **Hi there, I'm Mustafa and here it is my awful repository :)
+## **Hi there, I'm Mustafa and here it's my awful repository :)
 
 😼Currently learning on Java, Python and C Programming;
 👁️‍🗨️Interested in Network and Cyber Security Analyst, 
