@@ -14,17 +14,4 @@ TODO LIST:
  - Be aware and raise awareness of people about the Cyber Threats
  - Make yourself Python Chef;
  - Respect,
-### Here are my social media accounts:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br>
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br>
-
-<br>
-[twitter]: "https://twitter.com/mustfakara3"
-
-[instagram]: "https://instagram.com/mustfakara3"
-
-[linkedin]:
+ - 
