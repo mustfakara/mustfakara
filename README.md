@@ -15,4 +15,3 @@ TODO LIST:
  - Be aware and raise awareness of people using technologies everywhere.
  - Make yourself Python Chef;
  - Respect,
- - 
